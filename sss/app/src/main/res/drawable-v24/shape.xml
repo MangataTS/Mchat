@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <corners
+        android:radius="20dp"/>
+    <!-- 设置圆角半径 -->
+
+
+    <!-- 大小 -->
+    <size
+        android:width="80dp"
+        android:height="60dp"/>
+    <!-- 宽度和高度 -->
+
+    <solid
+        android:color="#B0C4DE"
+        />
+    <!-- 描边 -->
+    <stroke
+        android:width="2dp"
+        android:color="#B0C4DE"
+        />
+</shape>
